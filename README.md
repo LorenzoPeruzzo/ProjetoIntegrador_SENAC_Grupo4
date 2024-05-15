@@ -2,7 +2,7 @@
 
 ## Tela de login para acesso ao sistema da Universidade Universum. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login.
 
-! [](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/7b85696c-f8b0-4c39-9bfe-7f6580e10c6b)
+![](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/7b85696c-f8b0-4c39-9bfe-7f6580e10c6b)
 
 
 # **Título: Tipo Gestor.**
