@@ -5,6 +5,7 @@
 ![Template1](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/7b85696c-f8b0-4c39-9bfe-7f6580e10c6b)
 
 
+
 # **Título: Tipo Gestor.**
 
 ## Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
