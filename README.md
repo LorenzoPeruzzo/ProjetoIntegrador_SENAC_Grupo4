@@ -1,4 +1,4 @@
-# **Título: Login usuário Gestor/Administração.**
+# **Tela Login usuário Gestor/Administração**
 
 ## Tela de login para acesso ao sistema da Universidade Universum. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login.
 
@@ -6,7 +6,7 @@
 
 
 
-# **Título: Tipo Gestor.**
+# **TelaTipo Gestor**
 
 ## Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
 
@@ -14,7 +14,7 @@
 
 
 
-# **Título Operações do usuário.**
+# **Tela Operações do usuário**
 
 ## Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
 
@@ -22,7 +22,7 @@
 
 
 
-# **Título: Operações do Usuário 2.**
+# **Tela Operações do Usuário 2**
 
 ## Ao clicar na seta no canto direito do campo, o sistema lista as operações disponíveis. 
 
@@ -30,7 +30,7 @@
 
 
 
-# **Titulo: Selecionar Operação.**
+# **Tela Selecionar Operação**
 
 ## Exemplo: usuário seleciona operação “Cadastro de Usuário”.
 
@@ -38,7 +38,7 @@
 
 
 
-# **Título: Confirmar Operação.**
+# **Tela Confirmar Operação**
 
 ## O sistema solicita confirmação da operação. 
 
@@ -46,7 +46,7 @@
 
 
 
-# **Título: Tipo de usuário do cadastro.**
+# **Tela Tipo de usuário do cadastro**
 
 ## Após o sistema disponibiliza os tipos possíveis de cadastro de usuário: Aluno, Professores, Pessoa Física, Pessoa Jurídica e Fornecedor/Prestador de Serviço.
 
@@ -54,7 +54,7 @@
 
 
 
-# **Título: Cadastro.**
+# **Tela Cadastro**
 
 ## Na tela de cadastro de Aluno, o usuário pode clicar no botão ‘Voltar” para cancelar a operação ou informar os campos abaixo e clicar no botão “Confirmar” para continuar com o cadastro.
 
@@ -98,7 +98,7 @@
 
 - **Senha de Acesso do Aluno: Senha do aluno**
 
-# **Título: Cadastro com sucesso.**
+# **Tela Cadastro com sucesso**
 
 ## Caso todos os campos foram preenchidos corretamente o sistema retorna a mensagem “Cadastro Feito com Sucesso!!”.
 
@@ -106,7 +106,7 @@
 
 
 
-# **Título: Login usuário aluno.**
+# **Tela Login usuário aluno**
 
 ## Tela de login para acesso ao sistema pelo tipo de usuário Aluno. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login. 
 
@@ -114,7 +114,7 @@
 
 
 
-# **Título:** “Olá aluno(a)!! O que você deseja fazer?”
+# **TTela Olá aluno(a)!! O que você deseja fazer?**
 
 ## Opções abaixo da saudação para as seguintes ações:
 
@@ -136,7 +136,7 @@
 
 
 
-# **Título: “Qual tipo de usuário deseja cadastrar?”**
+# **Tela Qual tipo de usuário deseja cadastrar?**
 
 ## Opções de cadastro:
 
@@ -158,7 +158,7 @@
 
 
 
-# **Título: “Cadastro de Professor(a)”**
+# **Tela Cadastro de Professor(a)**
 
 - **Instruções:** “Preencha as informações do Professor(a) para realizar o cadastro.”
 	Campos a serem preenchidos:
@@ -199,7 +199,7 @@
 
 
 
-# **Título: “Cadastro Realizado com Sucesso!”**
+# **Tela “Cadastro Realizado com Sucesso!”**
 
 ## Corpo:
 
@@ -214,7 +214,7 @@
 
 
 
- # **Título: “Professor”**
+ # **Tela Professor**
 
 ## Corpo:
 
@@ -236,7 +236,7 @@
 
 
 
-# **Título: “Olá professor, o que deseja fazer?”**
+# **Tela: “Olá professor, o que deseja fazer?”**
 
 ## Opções Disponíveis:
 
@@ -259,7 +259,7 @@ Tela Principal Após o Login.
 
 
 
-# **Título: “Qual tipo de usuário deseja cadastrar?”**
+# **Tela “Qual tipo de usuário deseja cadastrar?”**
 
 ## Opções de cadastro:
 
@@ -281,7 +281,7 @@ Tela Principal Após o Login.
 
 
 
-# **Título: “Cadastro de Pessoa Física”**
+# **Tela “Cadastro de Pessoa Física”**
 
 ## Corpo:
 
@@ -327,7 +327,7 @@ Tela Principal Após o Login.
 ![Template18](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/674c51ef-cedd-4e68-9f9f-df17f43148ff)
 
 
-# **Título: “Cadastro Realizado com Sucesso!”**
+# **Tela “Cadastro Realizado com Sucesso!”**
 
 ##Corpo:
 
@@ -341,7 +341,7 @@ Tela Principal Após o Login.
 ![Template19](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/b2613a42-bf40-4d89-86a9-cd1e35d4fe78)
 
 
-# **Título: "Pessoa Física"**
+# **Tela "Pessoa Física"**
 
 ## Corpo:
 - **Instruções:** "Insira suas credenciais para acessar o sistema."
@@ -362,11 +362,102 @@ Tela Principal Após o Login.
 
 
 
-Tela de Pessoa Física
+# ** Tela opções de ações: pessoa física**
+
+## **Tela de Pessoa Física:** 
+Após o login da Pessoa Física cadastrada, aparecerá esta tela na qual o sistema oferece as opções que a Pessoa Física irá fazer: Oferecer Serviços; Participar de
+Eventos e Acessar Serviços Online da Universidade. Embaixo a direita, há a opção para o usuário sair do sistema.
+
+![Template21](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/7a8f7e91-0643-4696-88ac-811f237d739b)
 
 
 
+# **Tela de cadastro da gestão/administração**
+
+## **Voltando a Tela de Gestão para cadastro de Pessoa Jurídica:** 
+Voltando a interface de gestão na tela de cadastro para outra vez fazer um cadastro, o sistema irá perguntar que tipo de usuário se deseja cadastrar, no caso agora, a Pessoa Jurídica.
+
+![Template22](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/4cfd2588-4695-4865-bacd-7d8c38ccff66)
 
 
+
+# **Tela de campos para cadastro da pessoa jurídica**
+
+## **Tela de Cadastro de Pessoa Jurídica:**
+A opção de cadastrar usuário escolhida na última tela foi para cadastrar pessoa jurídica, então o sistema abrirá esta tela ainda na interface da gestão, pedindo que se insira os dados da pessoa jurídica. Embaixo, há a opção de voltar a tela anterior, que é a tela para escolher qual usuário cadastrar, e, há a opção de confirmar o cadastro quando os campos forem preenchidos.
+
+![Template23](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/ecb9df9a-704f-46a0-accb-b8aa193050a6)
+
+
+
+# **Tela de conclusão cadastro da pessoa jurídica**
+
+## **Tela de confirmação:**
+Após efetuar o cadastro de pessoa jurídica, é mostrada esta tela com a mensagem indicando o cadastro feito com sucesso.
+
+![Template24](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/5e54909c-7c58-4793-9c31-4b6ab1989c0a)
+
+
+
+# **Tela login de acesso ao sistema da pessoa jurídica**
+
+## **Login Pessoa Jurídica:**
+Após o cadastro, indo a interface de pessoa jurídica, o sistema pedirá o login e senha para permitir o acesso de um usuário.
+
+![Template25](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/f59905a4-1f2f-4c5c-9ae8-306f8a7ee160)
+
+
+
+## **Tela opções de ações pessoa jurídica**
+
+## **Tela de opções de Pessoa Jurídica:** 
+Após o login da pessoa jurídica cadastrada, o sistema irá mostrar a tela com todas as opções para a pessoa jurídica interagir. Sendo elas: Oferecer Serviços; Participar de Eventos; Registrar Reclamação; Acompanhar Pagamentos; Visualizar Contratos e Enviar a Fatura dos Serviços Prestados. Embaixo há opção de sair do sistema.
+
+![Template26](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/48e3d6c0-9c90-4d4a-ad3e-61e41982c4eb)
+
+
+
+# **Tela de cadastro da gestão/administração**
+
+## **Voltando a Tela de Gestão para cadastro de Fornecedor/Prestador de Serviços:**
+Retornado a interface da Gestão na tela de cadastro, o sistema pergunta qual tipo de usuário cadastrar, no caso, o Fornecedor/Prestador de Serviços.
+
+![Template27](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/d98aaf9c-7521-47ad-b16d-ea50b3e041b6)
+
+
+
+# **Tela de campos para cadastro do fornecedor**
+
+## **Tela de Cadastro de Pessoa Fornecedor:**
+O usuário escolhido para cadastro foi o fornecedor, então, o sistema abrirá esta tela ainda na interface da gestão, pedindo que se insira os dados do fornecedor para cadastro. Embaixo há a opção de confirmar o cadastro ou voltar a tela anterior de escolha do tipo de usuário para cadastro.
+
+![Template28](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/ce5c42da-98a5-483c-9e28-3287151ae1d1)
+
+
+
+# **Tela de conclusão cadastro da pessoa jurídica**
+
+## **Tela de confirmação:** 
+Após efetuar o cadastro do fornecedor, é mostrada esta tela com a mensagem indicando o cadastro feito com sucesso.
+
+![Template29](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/e96a8bb3-4a8e-4865-8bc5-ff288816f7d7)
+
+
+
+# **Tela de login de acesso ao sistema do fornecedor**
+
+## **Login de Fornecedor:**
+Após o cadastro, já na interface do fornecedor, o sistema pedirá o login e senha para permitir o acesso deste usuário.
+
+![Template30](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/ab874886-5f2d-4708-8a77-6d623501bb37)
+
+
+
+# **Tela opções de ações: fornecedor**
+
+## **Tela de opções do Fornecedor:**
+Após o login do fornecedor, o sistema irá mostrar esta tela com todas as opções para o fornecedor interagir no sistema. São elas: Oferecer Serviços/Produtos; Acompanhar Pedidos; Visualizar Contratos e Enviar Fatura. Embaixo a direita, há a opção do usuário para sair do sistema.
+
+![Template31](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/d3fce791-0ce2-44fb-a304-7dab43181011)
 
 
