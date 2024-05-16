@@ -5,11 +5,13 @@
 ![Template1](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/a204be77-65e0-4013-99f6-b71aca51c23c)
 
 
+
 # **Título: Tipo Gestor.**
 
 ## Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
 
 ![Template2](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/07df13de-7bce-46ef-aefd-d78818520011)
+
 
 
 # **Título Operações do usuário.**
@@ -19,11 +21,13 @@
 ![Template3](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/ac5812e1-9702-4b64-ab1f-aa0e829b07f1)
 
 
+
 # **Título: Operações do Usuário 2.**
 
 ## Ao clicar na seta no canto direito do campo, o sistema lista as operações disponíveis. 
 
 ![Template4](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/99822396-1355-4872-a8e2-1cf8641e69e3)
+
 
 
 # **Titulo: Selecionar Operação.**
@@ -33,11 +37,13 @@
 ![Template5](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/8499255d-6ad3-42b2-a271-bd2b5270ce7c)
 
 
+
 # **Título: Confirmar Operação.**
 
 ## O sistema solicita confirmação da operação. 
 
 ![Template6](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/5d877ea5-e0d5-405e-933c-f75c4d49ece4)
+
 
 
 # **Título: Tipo de usuário do cadastro.**
@@ -47,11 +53,13 @@
 ![Template7](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/7fbcb2ef-abfe-4572-91ee-4387517c4d16)
 
 
+
 # **Título: Cadastro.**
 
 ## Na tela de cadastro de Aluno, o usuário pode clicar no botão ‘Voltar” para cancelar a operação ou informar os campos abaixo e clicar no botão “Confirmar” para continuar com o cadastro.
 
 ![Template8](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/493842f6-8f35-461d-818f-d08af0ed9407)
+
 
 
 - **Tipo de Usuário:** Sistema preenche conforme tipo de cadastro selecionado
@@ -97,11 +105,13 @@
 ![Template9](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/e50f29cb-88b8-4a39-9021-d861f3982647)
 
 
+
 # **Título: Login usuário aluno.**
 
 ## Tela de login para acesso ao sistema pelo tipo de usuário Aluno. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login. 
 
 ![Template10](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/7ac76c80-dd27-4107-af52-e27108fc8230)
+
 
 
 # **Título:** “Olá aluno(a)!! O que você deseja fazer?”
@@ -122,7 +132,8 @@
 
 ## Essas opções fornecem aos alunos uma série de funcionalidades comuns que eles podem realizar através do aplicativo, tornando mais fácil para eles navegar e acessar os recursos importantes da faculdade.
 
-![Template11](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/8016fbfa-b8b3-4292-8c1d-ee9ec0f1838d)
+![Template11](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/3a175318-7908-41dc-ba30-e2a2a45d6b91)
+
 
 
 # **Título: “Qual tipo de usuário deseja cadastrar?”**
@@ -143,7 +154,8 @@
 
 - Botão de voltar: Para retornar à tela anterior do menu de gestão/administração.
 
-![Template12](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/cacad453-e341-43f0-802f-2b1ddac5f428)
+![Template12](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/80aef058-8ade-43ad-90aa-00599c2fd321)
+
 
 
 # **Título: “Cadastro de Professor(a)”**
@@ -183,7 +195,8 @@
 
 - **Botão de confirmar:** Para salvar os dados inseridos e efetuar o cadastro do Professor(a).
 
-![Template13](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/12283ea5-2dd9-4cb6-9984-023fbc62b23d)
+![Template13](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/63e6afd8-2ad7-4bb2-9005-0f51c84fbe1d)
+
 
 
 # **Título: “Cadastro Realizado com Sucesso!”**
@@ -197,7 +210,8 @@
 
 - **Botão de Sair:** Para encerrar a sessão atual e voltar ao menu principal.
 
-![Template14](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/4232118e-62bb-4464-a511-80f3766c99ba)
+![Template14](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/26c0c795-32ef-4a18-adfd-fad41d651e20)
+
 
 
  # **Título: “Professor”**
@@ -218,7 +232,8 @@
 
 ## Essa tela é projetada para ser simples e direta, permitindo que os professores acessem rapidamente suas contas e recursos do aplicativo.
 
-![Template15](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/cfa821ac-31db-48f2-9bdc-e78cc10db51f)
+![Template15](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/573ea688-cf4c-4afc-8495-4059ad6b3cd5)
+
 
 
 # **Título: “Olá professor, o que deseja fazer?”**
@@ -239,8 +254,9 @@
 
 ## Essa estrutura de tela ajuda a manter o aplicativo organizado e facilita a navegação para os professores, permitindo que eles encontrem rapidamente as funcionalidades que precisam para gerenciar suas tarefas diárias.
 
-![Templaye16](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/3ca8822b-5a56-45d9-b45b-f50c379f1218)
+![Templaye16](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/64479a54-3c60-4674-a9ed-cf6baa2fb39b)
 Tela Principal Após o Login.
+
 
 
 # **Título: “Qual tipo de usuário deseja cadastrar?”**
@@ -261,7 +277,7 @@ Tela Principal Após o Login.
 
 - **Botão de voltar:** Para retornar à tela anterior do menu de gestão/administração.
 
-![Template17](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/15a2178f-1de1-4dc6-8240-08490fef32dc)
+![Template17](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/77ac6e23-61f7-410c-8eac-5f17bd15eaec)
 
 
 
@@ -308,7 +324,7 @@ Tela Principal Após o Login.
 
 ## Essa tela é projetada para facilitar o registro de indivíduos no sistema administrativo da faculdade, garantindo que todas as informações necessárias sejam coletadas de forma organizada.
 
-![Template18](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/bb03b30e-8e9d-47af-8885-128b1403512b)
+![Template18](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/674c51ef-cedd-4e68-9f9f-df17f43148ff)
 
 
 # **Título: “Cadastro Realizado com Sucesso!”**
@@ -322,7 +338,7 @@ Tela Principal Após o Login.
 
 - **Botão de Sair:** Para encerrar a sessão atual e voltar ao menu principal.
 
-![Template19](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/7af2bf36-9c9d-4646-a94c-4ca1b2edbff9)
+![Template19](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/b2613a42-bf40-4d89-86a9-cd1e35d4fe78)
 
 
 # **Título: "Pessoa Física"**
@@ -342,4 +358,15 @@ Tela Principal Após o Login.
 
 ## Essa tela é projetada para ser simples e direta, permitindo que os usuários pessoa física acessem rapidamente suas contas e recursos do aplicativo.
 
-![Template20](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/189b02df-4fed-454e-a175-d3d922f28ef3)
+![Template20](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/371cc8a7-e634-4c64-be15-e919d57a83a9)
+
+
+
+Tela de Pessoa Física
+
+
+
+
+
+
+
