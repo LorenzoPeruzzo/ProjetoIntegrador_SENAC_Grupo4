@@ -94,14 +94,14 @@
 
 ## Caso todos os campos foram preenchidos corretamente o sistema retorna a mensagem “Cadastro Feito com Sucesso!!”.
 
-![Template9](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/d4c1079b-a9b1-4279-bc99-86da28c8397a)
+![Template9](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/e50f29cb-88b8-4a39-9021-d861f3982647)
 
 
 # **Título: Login usuário aluno.**
 
 ## Tela de login para acesso ao sistema pelo tipo de usuário Aluno. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login. 
 
-![Template10](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/7851de55-e0fe-4f3f-886b-c76fc477daae)
+![Template10](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/7ac76c80-dd27-4107-af52-e27108fc8230)
 
 
 # **Título:** “Olá aluno(a)!! O que você deseja fazer?”
