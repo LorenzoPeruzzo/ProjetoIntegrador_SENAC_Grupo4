@@ -114,7 +114,7 @@
 
 
 
-# **TTela Olá aluno(a)!! O que você deseja fazer?**
+# **Tela Olá aluno(a)!! O que você deseja fazer?**
 
 ## Opções abaixo da saudação para as seguintes ações:
 
