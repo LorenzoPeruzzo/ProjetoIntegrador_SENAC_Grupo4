@@ -2,57 +2,56 @@
 
 ## Tela de login para acesso ao sistema da Universidade Universum. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login.
 
-![Template1](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/7b85696c-f8b0-4c39-9bfe-7f6580e10c6b)
-
+![Template1](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/a204be77-65e0-4013-99f6-b71aca51c23c)
 
 
 # **Título: Tipo Gestor.**
 
 ## Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
 
-![Template2](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/6e284301-ed66-4d41-b23e-03f9530fdcc1)
+![Template2](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/07df13de-7bce-46ef-aefd-d78818520011)
 
 
 # **Título Operações do usuário.**
 
 ## Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
 
-![Template3](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/8f4eb0ee-2184-4be9-b031-4870be580379)
+![Template3](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/ac5812e1-9702-4b64-ab1f-aa0e829b07f1)
 
 
 # **Título: Operações do Usuário 2.**
 
 ## Ao clicar na seta no canto direito do campo, o sistema lista as operações disponíveis. 
 
-![Template4](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/94e21d58-0c6b-448a-b801-f6958713d742)
+![Template4](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/99822396-1355-4872-a8e2-1cf8641e69e3)
 
 
 # **Titulo: Selecionar Operação.**
 
 ## Exemplo: usuário seleciona operação “Cadastro de Usuário”.
 
-![Template5](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/20ab8f85-1968-4640-b3e0-f4ab6e41b998)
+![Template5](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/8499255d-6ad3-42b2-a271-bd2b5270ce7c)
 
 
 # **Título: Confirmar Operação.**
 
 ## O sistema solicita confirmação da operação. 
 
-![Template6](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/34ae9f5a-ab36-4c03-9443-9672ed573cec)
+![Template6](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/5d877ea5-e0d5-405e-933c-f75c4d49ece4)
 
 
 # **Título: Tipo de usuário do cadastro.**
 
 ## Após o sistema disponibiliza os tipos possíveis de cadastro de usuário: Aluno, Professores, Pessoa Física, Pessoa Jurídica e Fornecedor/Prestador de Serviço.
 
-![Template7](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/16fa53b9-af27-4218-866b-9a436e5f34ee)
+![Template7](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/7fbcb2ef-abfe-4572-91ee-4387517c4d16)
 
 
 # **Título: Cadastro.**
 
 ## Na tela de cadastro de Aluno, o usuário pode clicar no botão ‘Voltar” para cancelar a operação ou informar os campos abaixo e clicar no botão “Confirmar” para continuar com o cadastro.
 
-![Template8](https://github.com/LorenzoPeruzzo/LorenzoPeruzzo/assets/169691884/f54b249e-42f3-4032-9f46-6a3fe04bfdb1)
+![Template8](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/493842f6-8f35-461d-818f-d08af0ed9407)
 
 
 - **Tipo de Usuário:** Sistema preenche conforme tipo de cadastro selecionado
