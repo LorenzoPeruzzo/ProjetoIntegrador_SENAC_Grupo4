@@ -13,19 +13,17 @@ Repositório destinado ao trabalho projeto integrador lll do SENAC. O grupo cont
 O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a administração e o gerenciamento de diversas operações acadêmicas e administrativas na Universidade Universum. Ele abrange várias funcionalidades para diferentes tipos de usuários, incluindo gestores, alunos, professores, e fornecedores/prestadores de serviço.
 
 
-# **TELAS**
+# **Tela Login usuário Gestor/Administração**
 
-## **Tela Login usuário Gestor/Administração**
-
- Tela de login para acesso ao sistema da Universidade Universum. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login.
+ ## Tela de login para acesso ao sistema da Universidade Universum. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login.
 
 ![Template1](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/a204be77-65e0-4013-99f6-b71aca51c23c)
 
 
 
-## **TelaTipo Gestor**
+# **TelaTipo Gestor**
 
-Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
+##Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
 
 ![Template2](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/07df13de-7bce-46ef-aefd-d78818520011)
 
