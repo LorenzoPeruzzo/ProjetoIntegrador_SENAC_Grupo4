@@ -1,3 +1,18 @@
+# **TRI-TAKER**
+Repositório destinado ao trabalho projeto integrador lll do SENAC. O grupo contém 8 integrantes:
+- Arthur Cahu de Andrade
+- Marilia dos Santos Ferreira
+- Angelica Mazon da Silva
+- Lorenzo Peruzzo 
+- Bruno Ramos Ruinho
+- Bruno Saraiva Wakimoto
+- Thiago Vieira Marques 
+- Marcelo Willms
+
+# **Descrição/ Objetivo**
+O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a administração e o gerenciamento de diversas operações acadêmicas e administrativas na Universidade Universum. Ele abrange várias funcionalidades para diferentes tipos de usuários, incluindo gestores, alunos, professores, e fornecedores/prestadores de serviço.
+
+
 # **Tela Login usuário Gestor/Administração**
 
 ## Tela de login para acesso ao sistema da Universidade Universum. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login.
