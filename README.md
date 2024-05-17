@@ -1,4 +1,4 @@
-# **TRIP-TAKER**
+# **UNIVERSUM**
 Repositório destinado ao trabalho projeto integrador lll do SENAC. O grupo contém 8 integrantes:
 - Arthur Cahu de Andrade
 - Marilia dos Santos Ferreira
