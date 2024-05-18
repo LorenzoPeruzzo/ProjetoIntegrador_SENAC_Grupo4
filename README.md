@@ -162,7 +162,7 @@ O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a
 
 - **Pessoa Física:** Registro de indivíduos para atividades específicas ou serviços.
 
-- 8*Pessoa Jurídica:** Cadastro de empresas e instituições parceiras.
+- **Pessoa Jurídica:** Cadastro de empresas e instituições parceiras.
 
 - **Fornecedor/Prestador de serviço:** Adição de novos fornecedores ou prestadores de serviços ao sistema.
 
@@ -345,7 +345,7 @@ Tela Principal Após o Login.
 
 # **Tela “Cadastro Realizado com Sucesso!”**
 
-##Corpo:
+## Corpo:
 
 - **Mensagem de sucesso:** "O cadastro da pessoa física foi confirmado com sucesso."
 
