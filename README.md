@@ -22,6 +22,10 @@ O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a
 
 # **Diagrama de classes:**
 
+<p align="center">
+  <img src="https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/c95f6eb2-812c-44dc-84d9-7820675638ba)">
+</p>
+
 ![Diagrama](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/c95f6eb2-812c-44dc-84d9-7820675638ba)
 
 
