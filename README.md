@@ -138,7 +138,7 @@ O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a
   
 - **Consultar Notas:** Visualização das notas atuais em todas as disciplinas.
   
-- **Solicitar Documentos:* Pedido de documentos acadêmicos como histórico escolar e atestados.
+- **Solicitar Documentos:** Pedido de documentos acadêmicos como histórico escolar e atestados.
   
 - **Consultar Horários:** Informações sobre os horários das aulas e eventos acadêmicos.
 
