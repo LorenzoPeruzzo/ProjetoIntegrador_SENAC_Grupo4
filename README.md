@@ -26,6 +26,12 @@ O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a
   <img src="https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/c95f6eb2-812c-44dc-84d9-7820675638ba)">
 </p>
 
+
+# **Apresentando telas de interface:**
+
+Telas produzidas no Adobe Ilustrattor.
+
+
 # **Tela Login usuário Gestor/Administração**
 
  ## Tela de login para acesso ao sistema da Universidade Universum. A tela de login possui dois campos: um rotulado como “Usuário/login” e outro como “Senha” com opcional para visualização da senha, logo abaixo botão enter para confirmar login.
