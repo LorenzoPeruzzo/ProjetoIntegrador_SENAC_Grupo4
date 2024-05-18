@@ -21,9 +21,6 @@ O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a
 ![Caso_de_Uso2](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/f6cd9d2e-88c2-4b84-9a51-5d8b6a47bd73)
 
 # **Diagrama de classes:**
-<div aling-" center"
-	<img src "https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/56ca0ef3-e1c2-4927-98fe-46ac942efdc8) width / >
-
 
 
 # **Tela Login usuário Gestor/Administração**
