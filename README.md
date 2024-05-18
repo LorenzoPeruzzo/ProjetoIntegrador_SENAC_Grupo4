@@ -24,7 +24,7 @@ O aplicativo de gestão escolar desenvolvido pelo grupo se destina a facilitar a
 
 # **TelaTipo Gestor**
 
-##Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
+## Na tela Tipo Gerenciamento fica disponível as operações que o usuário tem acesso. 
 
 ![Template2](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/07df13de-7bce-46ef-aefd-d78818520011)
 
