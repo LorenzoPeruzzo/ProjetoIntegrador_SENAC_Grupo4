@@ -378,7 +378,7 @@ Tela Principal Após o Login.
 
 
 
-# ** Tela opções de ações: pessoa física**
+# **Tela opções de ações: pessoa física**
 
 ## **Tela de Pessoa Física:** 
 Após o login da Pessoa Física cadastrada, aparecerá esta tela na qual o sistema oferece as opções que a Pessoa Física irá fazer: Oferecer Serviços; Participar de
