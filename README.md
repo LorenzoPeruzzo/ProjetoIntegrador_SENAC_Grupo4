@@ -418,6 +418,7 @@ Voltando a interface de gestão na tela de cadastro para outra vez fazer um cada
 # **Tela de campos para cadastro da pessoa jurídica**
 
 ## **Tela de Cadastro de Pessoa Jurídica:**
+
 A opção de cadastrar usuário escolhida na última tela foi para cadastrar pessoa jurídica, então o sistema abrirá esta tela ainda na interface da gestão, pedindo que se insira os dados da pessoa jurídica. Embaixo, há a opção de voltar a tela anterior, que é a tela para escolher qual usuário cadastrar, e, há a opção de confirmar o cadastro quando os campos forem preenchidos.
 
 ![Template23](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/ecb9df9a-704f-46a0-accb-b8aa193050a6)
@@ -427,6 +428,7 @@ A opção de cadastrar usuário escolhida na última tela foi para cadastrar pes
 # **Tela de conclusão cadastro da pessoa jurídica**
 
 ## **Tela de confirmação:**
+
 Após efetuar o cadastro de pessoa jurídica, é mostrada esta tela com a mensagem indicando o cadastro feito com sucesso.
 
 ![Template24](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/5e54909c-7c58-4793-9c31-4b6ab1989c0a)
@@ -436,15 +438,17 @@ Após efetuar o cadastro de pessoa jurídica, é mostrada esta tela com a mensag
 # **Tela login de acesso ao sistema da pessoa jurídica**
 
 ## **Login Pessoa Jurídica:**
+
 Após o cadastro, indo a interface de pessoa jurídica, o sistema pedirá o login e senha para permitir o acesso de um usuário.
 
 ![Template25](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/f59905a4-1f2f-4c5c-9ae8-306f8a7ee160)
 
 
 
-## **Tela opções de ações pessoa jurídica**
+# **Tela opções de ações pessoa jurídica**
 
 ## **Tela de opções de Pessoa Jurídica:** 
+
 Após o login da pessoa jurídica cadastrada, o sistema irá mostrar a tela com todas as opções para a pessoa jurídica interagir. Sendo elas: Oferecer Serviços; Participar de Eventos; Registrar Reclamação; Acompanhar Pagamentos; Visualizar Contratos e Enviar a Fatura dos Serviços Prestados. Embaixo há opção de sair do sistema.
 
 ![Template26](https://github.com/LorenzoPeruzzo/ProjetoIntegrador_SENAC_Grupo4/assets/169691884/48e3d6c0-9c90-4d4a-ad3e-61e41982c4eb)
