@@ -128,9 +128,9 @@ Telas produzidas no Adobe Ilustrattor.
 
 - **E-mail:** E-mail do aluno.
 
-- **Login de Acesso do Aluno: Usuário do aluno.**
+- **Login de Acesso do Aluno:** Usuário do aluno.
 
-- **Senha de Acesso do Aluno: Senha do aluno**
+- **Senha de Acesso do Aluno:** Senha do aluno
 
 # **Tela Cadastro com sucesso**
 
